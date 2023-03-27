@@ -1,0 +1,5 @@
+Local Ui = instance.new("Frame")
+create(object(Gui))
+--DO NLT READ
+Local Button = if Placed CreateBtn("","","") create a button
+local ColorGui = if Placed CreateGuiColor("","","")
