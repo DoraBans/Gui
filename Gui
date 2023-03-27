@@ -1,5 +1,18 @@
 Local Ui = instance.new("Frame")
 create(object(Gui))
---DO NLT READ
-Local Button = if Placed CreateBtn("","","") create a button
+--DO NOT READ
+Local Button = if Placed CreateBtn("","","")function()
+  Prinr("")
+end)
 local ColorGui = if Placed CreateGuiColor("","","")
+local Usermsg = if Placed CreateMsg
+Title("")
+Text("")
+Image(rbxassetid/)
+--Usefull
+local Map = if placed 
+local Map = instance,new("Frame")
+--Prop
+Map.Name = "Map"
+Map.Parent = Change
+Map.Size = (25,25,25)
