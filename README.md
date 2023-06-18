@@ -8,5 +8,3 @@
 --This File Named any Of that all that If you wan't i create with Vip File
 # User 
 --Shows the User are u using!!!!
-# JPG 
---Don't delete that one if you using i need make some jpg! sorry for this one i need to make it
